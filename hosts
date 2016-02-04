@@ -1,18 +1,11 @@
 #风行个人hosts
 127.0.0.1   localhost
 
-#激活屏蔽
-
-#IPV6
-2001:250:4813:101::61 ipv6.xcu.edu.cn
-2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
-2001:da8:ad:3224::151 tv6.byr.cn
-2001:250:6c00:4::3:1066 3d.ncu6.edu.cn
-2001:da8:215:4044:250:56ff:fe87:145c conference.bupt.edu.cn
-2001:da8:8006:600:100::164 www.ccshu.org
 
 
-#个人添加
+
+
+#联通缓存
 120.52.73.179   30.media.tumblr.com
 120.52.73.179   31.media.tumblr.com
 120.52.73.179   32.media.tumblr.com
