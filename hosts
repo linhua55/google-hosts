@@ -1,16 +1,16 @@
-#·çĞĞ¸öÈËhosts
+#é£è¡Œä¸ªäººhosts
 127.0.0.1   localhost
 255.255.255.255 broadcasthost
 ::1     localhost
 fe80::1%lo0 localhost
 
-#ÆÁ±Î
+#å±è”½
 127.0.0.1   www.google-analytics.com
 127.0.0.1   query.yahooapis.com
 
 
 
-#ÁªÍ¨»º´æ
+#è”é€šç¼“å­˜
 #120.52.73.137    30.media.tumblr.com
 #120.52.73.137    31.media.tumblr.com
 #120.52.73.137    32.media.tumblr.com
@@ -34,7 +34,7 @@ fe80::1%lo0 localhost
 #120.52.73.137    vt.tumblr.com
 
 
-#¸öÈËÌí¼Ó
+#ä¸ªäººæ·»åŠ 
 
 
 #ipv6
@@ -310,12 +310,12 @@ fe80::1%lo0 localhost
 103.224.194.35    clients6.googleusercontent.com
 103.224.194.35    clients7.googleusercontent.com
 103.224.194.35    lh0.googleusercontent.com
-216.58.199.65    lh1.googleusercontent.com
-216.58.199.65    lh2.googleusercontent.com
-216.58.199.65    lh3.googleusercontent.com
-216.58.199.65    lh4.googleusercontent.com
-216.58.199.65    lh5.googleusercontent.com
-216.58.199.65    lh6.googleusercontent.com
+172.217.1.1    lh1.googleusercontent.com
+172.217.1.1    lh2.googleusercontent.com
+172.217.1.1    lh3.googleusercontent.com
+172.217.1.1    lh4.googleusercontent.com
+172.217.1.1    lh5.googleusercontent.com
+172.217.1.1    lh6.googleusercontent.com
 103.224.194.35    lh1.ggpht.com
 103.224.194.35    lh2.ggpht.com
 103.224.194.35    lh3.ggpht.com
@@ -1189,7 +1189,7 @@ fe80::1%lo0 localhost
 103.224.194.35    doc-0s-as-docs.googleusercontent.com
 103.224.194.35    doc-10-as-docs.googleusercontent.com
 103.224.194.35    doc-14-as-docs.googleusercontent.com
-Áí103.224.194.35    books.googleusercontent.com
+å¦103.224.194.35    books.googleusercontent.com
 103.224.194.35    music-onebox.googleusercontent.com
 103.224.194.35    code-opensocial.googleusercontent.com
 103.224.194.35    spreadsheets-opensocial.googleusercontent.com
@@ -3748,7 +3748,7 @@ fe80::1%lo0 localhost
 203.208.39.200  www.gvt0.cn
 # google cn End
 
-# google ·­Òë
+# google ç¿»è¯‘
 103.224.194.35    translate.google.com.sg
 103.224.194.35    translate.google.co.jp
 103.224.194.35    translate.google.com.tw
@@ -3856,7 +3856,7 @@ fe80::1%lo0 localhost
 209.17.68.209     oi56.tinypic.com
 # Twitter End
 
-##     WikiMedia Î¬»ùÃ½Ìå
+##     WikiMedia ç»´åŸºåª’ä½“
 198.35.26.96     download.wikimedia.org
 198.35.26.96     dumps.wikimedia.org
 198.35.26.96     svn.wikimedia.org
@@ -3880,7 +3880,7 @@ fe80::1%lo0 localhost
 198.35.26.96     mobile-lb.ulsfo.wikimedia.org
 198.35.26.96     upload-lb.ulsfo.wikimedia.org
 
-##     WikiBooks Î¬»ù½Ì¿ÆÊé
+##     WikiBooks ç»´åŸºæ•™ç§‘ä¹¦
 198.35.26.96     wikibooks.org
 198.35.26.96     www.wikibooks.org
 198.35.26.96     aa.wikibooks.org
@@ -4005,7 +4005,7 @@ fe80::1%lo0 localhost
 198.35.26.96     zh-min-nan.wikibooks.org
 198.35.26.96     zu.wikibooks.org
 
-##     WikiNews     Î¬»ùĞÂÎÅ
+##     WikiNews     ç»´åŸºæ–°é—»
 198.35.26.96     wikinews.org
 198.35.26.96     www.wikinews.org
 198.35.26.96     ar.wikinews.org
@@ -4042,7 +4042,7 @@ fe80::1%lo0 localhost
 198.35.26.96     uk.wikinews.org
 198.35.26.96     zh.wikinews.org
 
-##     WikiPedia     Î¬»ù°Ù¿Æ
+##     WikiPedia     ç»´åŸºç™¾ç§‘
 198.35.26.96     wikipedia.org
 198.35.26.96     www.wikipedia.org
 198.35.26.96     aa.wikipedia.org
@@ -4310,12 +4310,12 @@ fe80::1%lo0 localhost
 198.35.26.96     zh-yue.wikipedia.org
 198.35.26.96     zu.wikipedia.org
 
-##     WikiPedia     Mobile     Î¬»ù°Ù¿ÆÒÆ¶¯°æ
+##     WikiPedia     Mobile     ç»´åŸºç™¾ç§‘ç§»åŠ¨ç‰ˆ
 198.35.26.96     m.wikipedia.org
 198.35.26.96     en.m.wikipedia.org
 198.35.26.108     zh.m.wikipedia.org
 
-##     WikiQuote     Î¬»ùÓïÂ¼
+##     WikiQuote     ç»´åŸºè¯­å½•
 198.35.26.96     wikiquote.org
 198.35.26.96     www.wikiquote.org
 198.35.26.96     af.wikiquote.org
@@ -4407,7 +4407,7 @@ fe80::1%lo0 localhost
 198.35.26.96     zh.wikiquote.org
 198.35.26.96     zh-min-nan.wikiquote.org
 
-##     WikiSource     Î¬»ùÎÄ¿â
+##     WikiSource     ç»´åŸºæ–‡åº“
 198.35.26.96     wikisource.org
 198.35.26.96     www.wikisource.org
 198.35.26.96     ang.wikisource.org
@@ -4471,7 +4471,7 @@ fe80::1%lo0 localhost
 198.35.26.96     zh.wikisource.org
 198.35.26.96     zh-min-nan.wikisource.org
 
-##     Wiktionary     Î¬»ù´Êµä
+##     Wiktionary     ç»´åŸºè¯å…¸
 198.35.26.96     wiktionary.org
 198.35.26.96     www.wiktionary.org
 198.35.26.96     aa.wiktionary.org
@@ -4645,7 +4645,7 @@ fe80::1%lo0 localhost
 198.35.26.96     zh-min-nan.wiktionary.org
 198.35.26.96     zu.wiktionary.org
 
-##     Wikiversity     Î¬»ùÑ§Ôº
+##     Wikiversity     ç»´åŸºå­¦é™¢
 198.35.26.96     wikiversity.org
 198.35.26.96     www.wikiversity.org
 198.35.26.96     ar.wikiversity.org
